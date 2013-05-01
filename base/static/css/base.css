@@ -1,0 +1,12 @@
+body {
+    background: gray;
+}
+
+pre {
+    color: white;
+    font-family: 'Ubuntu Mono',monospace;
+    font-size: 30px;
+    margin-left: 3%;
+    margin-top: 3%;
+    text-shadow: 0 0 0.1em #CCCCCC, 0.1em 0.1em 0.2em black;
+}
